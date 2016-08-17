@@ -1,0 +1,40 @@
+a, a:hover {
+  text-decoration: none;
+}
+
+body {
+      padding: 60px;
+      font-size: 200%;
+}
+
+h1 {
+  font-size: 400%;
+}
+
+section{
+  background-color: bisque;
+  margin-top: 50px;
+  min-height: 400px;
+  min-width: 400px;
+}
+
+.flex-container {
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: center;
+}
+
+.flex-container .flex-element {
+  max-width: 50%;
+}
+
+img {
+  width: 70%;
+  margin: 30px;
+}
+
+ul {
+   list-style-type: none;
+}
