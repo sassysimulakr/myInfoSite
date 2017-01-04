@@ -11,6 +11,7 @@ section {
   padding-top: 30px;
   display: inline-flex;
   justify-content: center;
+  flex-wrap: wrap;
 
 }
 
@@ -21,4 +22,10 @@ div {
 ul, a {
   list-style-type: none;
   text-decoration: none;
+}
+
+img {
+  width: 100%;
+  display:block;
+  height: 100%;
 }
