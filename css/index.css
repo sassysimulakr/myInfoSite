@@ -1,26 +1,10 @@
-body {
-    font-family: "Courier New", Courier, Monaco;
-    margin: 0 auto;
-    max-width: 40%;
+html {
+    margin: 40px auto;
+    max-width: 435px;
+    text-align: center;
 }
 
-header {
-    background-image: url('../stuff/x.png');
-    color: white;
-    font-size: 1.3em;
-}
-
-h2 {
-    background-color: black;
-    color: white;
-}
-
-div {
-    background-color: black;
-    color: white;
-}
-
-a {
-    text-decoration: none;
-    color: inherit;
+img {
+    width: 300px;
+    height: auto;
 }
